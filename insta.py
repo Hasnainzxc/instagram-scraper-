@@ -17,7 +17,7 @@ def scrape_instagram(username):
     return (username, phone_number)
 
 # Get a list of usernames to scrape
-usernames = ["hasnainzxc", "tayyabaamir67", "username3"]
+usernames = ["hasnainzxc", "", "username3"]
 
 # Scrape the usernames and phone numbers
 results = []
